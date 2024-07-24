@@ -12,3 +12,8 @@ To get started, clone the repository:
 
 ```bash
 git clone https://github.com/JadenCantCode/Python-Projects.git
+```
+
+## I AM FAIRLY NEW TO CODING
+
+I'm still learning and experimenting with different Python projects. If you have suggestions for improvements or new ideas, feel free to contribute or provide feedback. Your insights and contributions are always appreciated!
