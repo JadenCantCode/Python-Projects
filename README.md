@@ -4,16 +4,15 @@ Welcome to the Python Projects repository! This is a collection of various Pytho
 
 ## Projects
 
-- **Rock Paper Scissors Game**: A simple interactive game where you play against a computer opponent.
-
-## Getting Started
-
-To get started, clone the repository:
-
-```bash
-git clone https://github.com/JadenCantCode/Python-Projects.git
-```
+- **Totally Fair Rock Paper Scissors**: A Rock Paper Scissors game where you play against me(totally not rigged 100% fr)
 
 ## I AM FAIRLY NEW TO CODING
 
-I'm still learning and experimenting with different Python projects. If you have suggestions for improvements or new ideas, feel free to contribute or provide feedback. Your insights and contributions are always appreciated!
+Keep in mind that I(the number 1 alpha sigma) am very new to coding. 
+*with rizz*
+so like
+*with rizz*
+dont
+*with rizz*
+bully me or something
+*with rizz of course*
