@@ -62,11 +62,13 @@ while True:
                         break
                     elif again == "No":
                         print("Jaden: Okay :(")
+                        time.sleep(2)
                         exit()
                     else:
                         print("Choose either Yes or No(Case sensitive)")
     elif YN == "No":
         print("Okay :(")
+        time.sleep(2)
         exit()
     else:
         print("Choose either Yes or No(Case sensitive)")
